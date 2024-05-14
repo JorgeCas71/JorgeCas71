@@ -1,4 +1,4 @@
-### Hi there 👋
+🌱 I’m currently learning programming in a bootcamp with Factoria5.
 
 <!--
 **Jorgecas71/Jorgecas71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
