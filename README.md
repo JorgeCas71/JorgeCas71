@@ -1,4 +1,6 @@
-🌱 I’m currently learning programming in a bootcamp with Factoria5.
+- 💬 Ask me about ... I’m currently learning programming in a bootcamp with Factoria5.
+My hobbies are music, nature hiking, traveling, theater and cooking.
+
 
 <!--
 **Jorgecas71/Jorgecas71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
