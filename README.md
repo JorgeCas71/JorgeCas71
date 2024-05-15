@@ -1,6 +1,6 @@
-- 💬 Ask me about ... I’m currently learning programming in a bootcamp with Factoria5.
-My hobbies are music, nature hiking, traveling, theater and cooking.
-
+- 🌱 I’m currently learning ... ...programming in a bootcamp with Factoria5 as a Full Stack developer.
+- 😄 About me: my hobbies are music, nature hiking, traveling, theater and cooking.
+- 📫 How to reach me: ...linkedin.com/in/jorge-c-b7ba76294
 
 <!--
 **Jorgecas71/Jorgecas71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
