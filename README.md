@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Jorge Castro</h1>
+<h1 align="center">Hi 👋, I'm Jorge Castro Gutiérrez</h1>
 <h3 align="center">I'm developer from Espain</h3>
 
 - 🌱 I’m currently learning **BootCamp Full Stack con Factoría5**
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://linkedin.com/in/jorge castro gutiérrez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorge castro gutiérrez" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/jorge castro gutiérrez](https://www.linkedin.com/in/jorge-c-b7ba76294/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorge castro gutiérrez" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
