@@ -5,7 +5,7 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/jorge-c-b7ba76294/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorge castro gutiérrez" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jorge-c-b7ba76294/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorge castro gutiérrez" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
