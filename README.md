@@ -1,5 +1,6 @@
 
-![github-header-image (2)](https://github.com/Jorgecas71/Jorgecas71/assets/168910049/9077e1ac-140f-4b37-ab82-e86fae869cc1)
+
+![github-header-image](https://github.com/Jorgecas71/Jorgecas71/assets/168910049/337d72d2-a14c-4276-9488-399d90cddffe)
 
 
 
