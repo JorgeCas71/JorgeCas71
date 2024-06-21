@@ -1,6 +1,7 @@
 
 
-![github-header-image (1)](https://github.com/Jorgecas71/Jorgecas71/assets/168910049/1f541c8f-1e1f-4522-afd6-c7379c8bc1de)
+![github-header-image](https://github.com/Jorgecas71/Jorgecas71/assets/168910049/23bb3e06-9ba4-4fdd-a171-0d1aa131db6d)
+
 
 
 
