@@ -1,6 +1,7 @@
 
+![github-header-image (2)](https://github.com/Jorgecas71/Jorgecas71/assets/168910049/9077e1ac-140f-4b37-ab82-e86fae869cc1)
 
-username=JorgeCas71&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 # 💫 About Me:
 🌱 I’m currently learning BootCamp Full Stack con Factoría5
