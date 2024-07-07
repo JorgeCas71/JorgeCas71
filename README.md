@@ -3,8 +3,11 @@
 ![github-header-image](https://github.com/Jorgecas71/Jorgecas71/assets/168910049/23bb3e06-9ba4-4fdd-a171-0d1aa131db6d)
 
 
+
  💫 About Me:
 🌱 I’m currently learning BootCamp Full Stack con Factoría5
+
+
 
  🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/JorgeCas71) 
