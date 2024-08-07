@@ -2,11 +2,6 @@
 
 ![github-header-image](https://github.com/Jorgecas71/Jorgecas71/assets/168910049/23bb3e06-9ba4-4fdd-a171-0d1aa131db6d)
 
-
-
-
-
-
 💫 About Me:
 🌱 I’m currently doing a Full Stack web development BootCamp at FactoríaF5.
 
