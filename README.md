@@ -5,10 +5,12 @@
 <div align="center">
 
 # 💫 About Me:
+🌱 BootCamp de desarrollo web Full Stack en FactoríaF5  850horas.
+<br>
 🌱 Actualmente cursando un Grado Superior en desarrollo de aplicaciones web en
 cifp la laboral.
-<br>
-🌱 BootCamp de desarrollo web Full Stack en FactoríaF5  850horas.
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/JorgeCas71)
