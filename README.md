@@ -5,7 +5,9 @@
 <div align="center">
 
 # 💫 About Me:
-🌱 I’m currently doing a Full Stack web development BootCamp at FactoríaF5.
+🌱 Actualmente cursando un Grado Superior en DESARROLLO DE APLICACIONES WEB
+CIFP LA LABORAL.
+🌱 BootCamp de desarrollo web Full Stack en FactoríaF5  850horas.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/JorgeCas71)
