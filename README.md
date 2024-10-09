@@ -5,8 +5,8 @@
 <div align="center">
 
 # 💫 About Me:
-🌱 Actualmente cursando un Grado Superior en DESARROLLO DE APLICACIONES WEB
-CIFP LA LABORAL.
+🌱 Actualmente cursando un Grado Superior en desarrollo de aplicaciones web
+cifp la laboral.
 <br>
 🌱 BootCamp de desarrollo web Full Stack en FactoríaF5  850horas.
 
